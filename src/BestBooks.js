@@ -1,12 +1,7 @@
 import React from 'react';
 
-function BestBooks extends React.Component {
-  constructor(props) {
-    super(props);
-    this.state = {
-      books: []
-    }
-  }
+function BestBooks() {
+
 
   /* TODO: Make a GET request to your API to fetch all the books from the database  */
 

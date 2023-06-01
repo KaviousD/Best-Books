@@ -10,13 +10,13 @@ import {
 } from "react-router-dom";
 
 function App extends React.Component {
-  
+  {
     return (
       <>
         <Router>
           <Header />
           <Routes>
-            <Route 
+            <Route
               exact path="/"
               element={<BestBooks />}
             >
