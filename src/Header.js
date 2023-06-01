@@ -2,8 +2,8 @@ import React from 'react';
 import { Navbar, NavItem } from 'react-bootstrap';
 import { Link } from "react-router-dom";
 
-class Header extends React.Component {
-  render() {
+function Header() {
+  
     return (
       <Navbar collapseOnSelect expand="lg" bg="dark" variant="dark">
         <Navbar.Brand>My Favorite Books</Navbar.Brand>
@@ -12,6 +12,6 @@ class Header extends React.Component {
       </Navbar>
     )
   }
-}
+
 
 export default Header;
