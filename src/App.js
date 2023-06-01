@@ -16,7 +16,7 @@ function App() {
         <Router>
           <Header />
           <Routes>
-            <Route 
+            <Route
               exact path="/"
               element={<BestBooks />}
             >
