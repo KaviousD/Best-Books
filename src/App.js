@@ -9,8 +9,8 @@ import {
   Route
 } from "react-router-dom";
 
-class App extends React.Component {
-  render() {
+function App extends React.Component {
+  
     return (
       <>
         <Router>

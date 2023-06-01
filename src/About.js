@@ -1,6 +1,6 @@
 import { Component } from "react";
 
-class Profile extends Component {
+function Profile extends Component {
 
   render() {
     /* TODO: render information about the developers */

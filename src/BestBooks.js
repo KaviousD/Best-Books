@@ -1,6 +1,6 @@
 import React from 'react';
 
-class BestBooks extends React.Component {
+function BestBooks extends React.Component {
   constructor(props) {
     super(props);
     this.state = {
