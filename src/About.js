@@ -1,11 +1,11 @@
-import { Component } from "react";
+// import { Component } from "react";
 
-function Profile() {
+// class Profile extends Component {
 
-  
-    /* TODO: render information about the developers */
-    return <p>Profile page coming soon</p>
-  
-};
+//     render() {
+//         /* TODO: render information about the developers */
+//         return <p>Profile page coming soon</p>
+//     }
+// };
 
-export default Profile;
+// export default Profile;
