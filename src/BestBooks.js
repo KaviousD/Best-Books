@@ -57,7 +57,7 @@ const BestBooks = () => {
 
     return (
         <>
-            <h2>Jakes hentai Shelf &amp; Cultured Weebs allowed Shelf</h2>
+            <h2>Manga Shelf & Cultured Weeb Literature</h2>
 
             {books.length > 0 ? (
                 <Carousel activeIndex={activeIndex}>
