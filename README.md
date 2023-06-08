@@ -13,13 +13,13 @@ Clone this repo to your own account with the green "Use this template" button. T
 # Project Name
 
 **Author**: Lui F & Kavious M.
-**Version**: 1.0.0 (increment the patch/fix version number if you make more commits past your first submission)
+**Version**: 1.0.0 - Book storage/1.0.1 - Create & Delete/1.0.2 -  
 
 ## Overview
-<!-- Provide a high level overview of what this application is and why you are building it, beyond the fact that it's an assignment for this class. (i.e. What's your problem domain?) -->
+Our website is supposed to display a variety of books and their description also with the option to add or remove the current rotation of books.
 
 ## Getting Started
-<!-- What are the steps that a user must take in order to build this app on their own machine and get it running? -->
+Start setting up the react app and making sure you have all the files you'll need for your website
 
 ## Architecture
 <!-- Provide a detailed description of the application design. What technologies (languages, libraries, etc) you're using, and any other relevant design information. -->
