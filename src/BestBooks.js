@@ -13,7 +13,7 @@ const BestBooks = () => {
     useEffect(() => {
       const fetchBooks = async () => {
         try {
-          const API = `${process.env.REACT_APP_SERVER_URL}/books`; // API URL for fetching books
+          const API = `${process.env.REACT_APP_SERVER_URL}books`; // API URL for fetching books
           const token = await getAccessTokenSilently(); // Get the access token
           const res = await axios.get(API, { headers: { Authorization: `Bearer ${token}` } }); // Make GET request to fetch books
           console.log(res.data);
